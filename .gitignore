@@ -1,0 +1,79 @@
+# General
+.DS_Store
+*.swp
+*.swo
+*~
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Dependency directories
+node_modules/
+bower_components/
+vendor/
+jspm_packages/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Build and release
+dist/
+build/
+out/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Debug
+*.out
+*.app
+
+# Testing
+coverage/
+.nyc_output/
+
+# Environment files
+env/
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Local development
+*.local
+*.bak
+
+# FOlder
+env/
+mlruns/
+.__pycache__

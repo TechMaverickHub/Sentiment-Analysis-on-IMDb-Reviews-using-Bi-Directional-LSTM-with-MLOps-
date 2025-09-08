@@ -1,0 +1,3 @@
+dropout: 0.4036066991999162
+embedding_dim: 64
+lstm_units: 32
